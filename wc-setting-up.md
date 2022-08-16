@@ -14,7 +14,7 @@ What are environment variables?
 
 ```
 {
-  define( 'WP_ENVIRONMENT_TYPE', 'staging' );
+  define( 'WP_ENVIRONMENT_TYPE', 'development' );
   define( 'SCRIPT_DEBUG', true );
 }
 
