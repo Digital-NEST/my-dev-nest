@@ -82,10 +82,21 @@ Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Gett
 
 # Working with colors
 
-> The RGB Model
+> The RGB Model : Comming Soon
 
-> Shades of grey
+> Shades of grey : Comming Soon
 
 ### CSS Fundamentals
 
-Please read: [CSS-learning](https://developer.mozilla.org/en-US/docs/Web/CSS)
+> Resolving Conflicting Declaration
+
+    Highest Priority ->  5. Declaration marked !important
+                     4. Inline style (style attribute in HTML)
+                     3. ID (#) selectors
+                     2. Class (.) or pseudo-class (:) selector
+                     1. Element selector (p, div, li)
+                     0. Universal selector (*)
+    Lowest Priority ->
+
+Please Read: [CSS-Learning](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Plese Watch: [CSS-Watching](https://www.youtube.com/watch?v=JnTPd9G6hoY)
