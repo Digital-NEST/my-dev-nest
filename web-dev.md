@@ -1,11 +1,17 @@
-|1 | [Overview Of Web Development](#Overview-Of-Web-Development) |
+| No. | Questions                                                   |
+| --- | ----------------------------------------------------------- |
+|     | **Web Developer**                                           |
+| 1   | [Overview Of Web Development](#Overview-Of-Web-Development) |
+| 2   | [Introduction to HTML](#Introduction-to-HTML)               |
 
-|2 | [Introduction to HTML](#Introduction-to-HTML) |
+## Web Developer
 
 1. ### Overview Of Web Development
 
 > Front-End
-> Static Website: Languages that browsers understand: HTML, CSS, JS - Files: index.html, style.css, script.js, image.jpg
+> Static Website: Languages that browsers understand: HTML, CSS, JS
+
+- Files: index.html, style.css, script.js, image.jpg
 
       Example:
         BROWSERS ---Request--->
@@ -24,9 +30,9 @@ Dynamic Website: Website files are assembled on the server
                                                 - PHP
                                                 - Python
 
-HTML ---> Content = Nouns
-CSS ---> Presentation = Adjectives
-JS ---> Dynamic Effects & Web Applications = Verbs
+- HTML ---> Content = Nouns
+- CSS ---> Presentation = Adjectives
+- JS ---> Dynamic Effects & Web Applications = Verbs
 
 2. ### Introduction to HTML
 
