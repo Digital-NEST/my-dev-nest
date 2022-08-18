@@ -1,5 +1,3 @@
-> “Be curious. Read widely. Try new things. What people say intelligence just boils down to curiosity.” ― Aaron Swartz
-
 ## Step One: WordPress Environment Variable
 
 [WP_ENVIRONMENT_TYPE](https://developer.wordpress.org/apis/wp-config-php/)

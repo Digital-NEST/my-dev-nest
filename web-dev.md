@@ -1,4 +1,4 @@
-| No. | Questions                                                   |
+| No. | Sections                                                    |
 | --- | ----------------------------------------------------------- |
 |     | **Web Developer**                                           |
 | 1   | [Overview Of Web Development](#Overview-Of-Web-Development) |
@@ -59,3 +59,19 @@ Dynamic Website: Website files are assembled on the server
 - Cascading Style Sheets
 - CSS the (visual and aural) layout, for a variety of devices.
 - Consists of countless properties that developers use to format the content: properties about font, text, spacing, layout
+
+# How we select and style elements
+
+- Selectors:
+
+  - h1
+  - h2
+  - p
+  - li
+  - etc
+
+- Declaration Blocks:
+
+  ````html
+  h1 { color: blue; text-align: center; font-size: 20px } ```
+  ````
