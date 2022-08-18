@@ -3,6 +3,7 @@
 |     | **Web Developer**                                           |
 | 1   | [Overview Of Web Development](#Overview-Of-Web-Development) |
 | 2   | [Introduction to HTML](#Introduction-to-HTML)               |
+| 3   | [Introduction to CSS](#Introduction-to-CSS)                 |
 
 ## Web Developer
 
@@ -52,3 +53,9 @@ Dynamic Website: Website files are assembled on the server
   ```
 
 - Closing Tag: Same as opening tag, but with a /.
+
+3. ### Introduction to CSS
+
+- Cascading Style Sheets
+- CSS the (visual and aural) layout, for a variety of devices.
+- Consists of countless properties that developers use to format the content: properties about font, text, spacing, layout
