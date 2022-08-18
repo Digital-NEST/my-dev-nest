@@ -4,6 +4,7 @@
 | 1   | [Overview Of Web Development](#Overview-Of-Web-Development) |
 | 2   | [Introduction to HTML](#Introduction-to-HTML)               |
 | 3   | [Introduction to CSS](#Introduction-to-CSS)                 |
+| 4   | [CSS Fundamentals](#CSS-Fundamentals)                       |
 
 ## Web Developer
 
@@ -54,24 +55,37 @@ Dynamic Website: Website files are assembled on the server
 
 - Closing Tag: Same as opening tag, but with a /.
 
+Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
 3. ### Introduction to CSS
 
 - Cascading Style Sheets
 - CSS the (visual and aural) layout, for a variety of devices.
 - Consists of countless properties that developers use to format the content: properties about font, text, spacing, layout
 
-# How we select and style elements
+#### How we select and style elements
 
 - Selectors:
 
-  - h1
-  - h2
+  - h1, h2, h3, etc
   - p
   - li
-  - etc
 
 - Declaration Blocks:
 
   ```html
   h1 { color: blue; text-align: center; font-size: 20px }
   ```
+
+- Inside is named {Declaration/ Style}
+- color: would be Property and blue would be the Value
+
+# Working with colors
+
+> The RGB Model
+
+> Shades of grey
+
+### CSS Fundamentals
+
+Please read: [CSS-learning](https://developer.mozilla.org/en-US/docs/Web/CSS)
