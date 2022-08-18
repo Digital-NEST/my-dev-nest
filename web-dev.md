@@ -78,7 +78,7 @@ Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Gett
   ```
 
 - Inside is named {Declaration/ Style}
-- color: would be Property and blue would be the Value
+- color: would be **Property** and blue would be the **Value**
 
 # Working with colors
 
@@ -100,4 +100,5 @@ Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Gett
     Lowest Priority ->
 
 Please Read: [CSS-Learning](https://developer.mozilla.org/en-US/docs/Web/CSS)
-Plese Watch: [CSS-Watching](https://www.youtube.com/watch?v=JnTPd9G6hoY)
+
+Please Watch: [CSS-Watching](https://www.youtube.com/watch?v=JnTPd9G6hoY)
