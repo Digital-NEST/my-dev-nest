@@ -90,7 +90,8 @@ Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Gett
 
 > Resolving Conflicting Declaration
 
-    Highest Priority ->  5. Declaration marked !important
+    Highest Priority ->
+                     5. Declaration marked !important
                      4. Inline style (style attribute in HTML)
                      3. ID (#) selectors
                      2. Class (.) or pseudo-class (:) selector
