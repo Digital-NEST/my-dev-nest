@@ -39,3 +39,16 @@ Dynamic Website: Website files are assembled on the server
 - Hyper Text Markup Language
 - HTML is a markup language that web developers use to structure and describe the content of a webpage (not a programming language)
 - HTML consists of elements that describe different types of content: paragraphs, links, images, video, etc.
+
+> Anatomy of an HTML element
+
+- Opening Tag: Name of the element, wrapped in
+- Content: Content of the element
+
+  ```
+  <p>This is a element
+  </p>
+
+  ```
+
+- Closing Tag: Same as opening tag, but with a /.
