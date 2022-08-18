@@ -72,6 +72,6 @@ Dynamic Website: Website files are assembled on the server
 
 - Declaration Blocks:
 
-  ````html
-  h1 { color: blue; text-align: center; font-size: 20px } ```
-  ````
+  ```html
+  h1 { color: blue; text-align: center; font-size: 20px }
+  ```
