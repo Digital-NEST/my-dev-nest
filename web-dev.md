@@ -45,7 +45,9 @@ Dynamic Website: Website files are assembled on the server
 > Anatomy of an HTML element
 
 👉 Opening tag: Name of the element, wrapped in < and >
+
 👉 Content: Content of the element, in this example text. But it might be another element (child element). Some elements have no content (e.g. <img>)
+
 👉 Closing tag: Same as opening tag, but with a /. When element has no content, it’s omitted
 
 Please read: [html-learning](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
