@@ -32,3 +32,7 @@ Query Monitor - Developer tools panel for WordPress.
 ## Step Three: Configuring WooCommerce Settings
 
 [WooCommerce Settings](https://woocommerce.com/document/configuring-woocommerce-settings/)
+
+## WooCommerce Examples
+
+[10 Best WordPress eCommerce Themes for 2021](https://www.sitepoint.com/top-wordpress-ecommerce-themes/)
