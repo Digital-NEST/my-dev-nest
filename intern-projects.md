@@ -1,4 +1,4 @@
-## Intern Setting Up Our Code Editor STEP Zero
+# Intern Setting Up Our Code Editor STEP Zero
 
 > “By failing to prepare, you are preparing to fail.”
 
