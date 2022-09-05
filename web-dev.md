@@ -12,6 +12,10 @@
 
 [usability](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
-2. ### Design
+2. ### UI
+
+[glossary](https://www.uxdesigninstitute.com/blog/ui-glossary/)
+
+3. ### Design
 
 [design-system](https://medium.com/netguru/creating-a-design-system-our-approach-and-experiences-d32bd56c3a8a)
