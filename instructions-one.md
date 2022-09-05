@@ -6,8 +6,8 @@ _ students will see these instructions in a read-only workspace tab _
 
 ## Steps
 
-1.
-2.
+1. Build one main header
+2. Main header should include a h1 with the words main header followed by a nav with 4 anchor tags, labeled.
 3.
 
 Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your instructions.
